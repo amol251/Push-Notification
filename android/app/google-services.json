@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "192465131133",
+    "firebase_url": "https://onesignalexample-3d3cb.firebaseio.com",
+    "project_id": "onesignalexample-3d3cb",
+    "storage_bucket": "onesignalexample-3d3cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192465131133:android:ffcdd30ed32e7644",
+        "android_client_info": {
+          "package_name": "com.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192465131133-okiit2pl6212namdgguqqteo3mfeq4fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasedemo",
+            "certificate_hash": "3ff2371366c308af18eb7422327e3d181ba41c7c"
+          }
+        },
+        {
+          "client_id": "192465131133-1f99614t3g0gn2hltq4iaqn39nc1h5al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2kWmfp6peigJtnpPtksOOyBjzoJ5pMYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192465131133-1f99614t3g0gn2hltq4iaqn39nc1h5al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
